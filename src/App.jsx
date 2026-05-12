@@ -1,8 +1,8 @@
-import Note from './components/notesapp/note'
+import Display from './components/Gallery Project/Project'
 function App(){
   return(
     <>
-    <Note/>
+    <Display/>
     </>
   )
 }
