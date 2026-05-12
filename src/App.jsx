@@ -1,9 +1,8 @@
-import React from "react";
-import Page1 from "./components/page1/page1"
+import Note from './components/notesapp/note'
 function App(){
   return(
     <>
-    <Page1/>
+    <Note/>
     </>
   )
 }
