@@ -1,16 +1,29 @@
-# React + Vite
+# React Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple practice project made while learning React basics.
 
-Currently, two official plugins are available:
+I followed a YouTube course and practiced different React concepts like components, props, state, and hooks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What I learned
+- React components
+- Props and state
+- useState hook
+- Basic project structure
+- Simple UI building
 
-## React Compiler
+## About this project
+This is just for learning and practice purposes. Not a production project.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Source
+https://www.youtube.com/watch?v=3LRZRSIh_KE
 
-## Expanding the ESLint configuration
+## React Practice Project (Continuing)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I am continuing my React learning journey with another video practice project.
+
+Video link:
+https://www.youtube.com/watch?v=Q5TqsetwCoE&t=416s
+
+Date: May 13
+
+This project is part of my ongoing React practice to improve my skills and understanding.
