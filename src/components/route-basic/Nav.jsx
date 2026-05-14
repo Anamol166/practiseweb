@@ -11,6 +11,7 @@ const Nav=()=>{
         <Link className=" hover:bg-blue-400" to='/'>Home</Link>
         <Link className=" hover:bg-blue-400" to='/about'>About</Link>
         <Link className=" hover:bg-blue-400" to='/contact'>Contact</Link>
+        <Link className=" hover:bg-blue-400"to='/cart' >Cart</Link>
         </div>
     </div>
     </>
